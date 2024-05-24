@@ -1,5 +1,4 @@
 <template>
-  <h1>Project</h1>
   <div class="flex justify-center items-center h-[100vh]">
     <button @click="prev">
       <svg
