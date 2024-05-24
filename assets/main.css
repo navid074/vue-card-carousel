@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('./font/RobotoMono-Medium.eot');
+    src: url('./font/RobotoMono-Medium.eot?#iefix') format('embedded-opentype'),
+        url('./font/RobotoMono-Medium.woff2') format('woff2'),
+        url('./font/RobotoMono-Medium.woff') format('woff'),
+        url('./font/RobotoMono-Medium.ttf') format('truetype'),
+        url('./font/RobotoMono-Medium.svg#RobotoMono-Medium') format('svg');
+}
+*{
+    font-family: 'Roboto Mono';
+}
+.bold{
+    font-weight: 700;
+}
